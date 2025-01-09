@@ -3,7 +3,7 @@
 </div>
 <div>
 <h2 align ="center">Olá,<img src ="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Eu sou Vinicios Julio</h2>
-<h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=30&center=true&vCenter=true&width=650&height=100&lines=Entusiasta+da+Tecnologia+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB"></h3>
+<h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=30&center=true&vCenter=true&width=650&height=100&lines=Entusiasta+da+Tecnologia+👨‍💻"></h3>
 </div>
 
 ## Um pouco sobre mim
